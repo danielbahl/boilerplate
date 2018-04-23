@@ -1,2 +1,2 @@
 # boilerplate
-Boilerplate / Skeletton : Bootstrap 4, Google Fonts, jQuery, Font Awesome
+Boilerplate / Skeleton : Bootstrap 4, Google Fonts, jQuery, Font Awesome
